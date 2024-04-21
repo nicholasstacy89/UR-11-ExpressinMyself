@@ -30,6 +30,7 @@ This is a simple note-taking app that allows you to create and manage your notes
 
 nichoalsstacy89
 repo: https://github.com/nicholasstacy89/UR-11-ExpressinMyself
+live: https://ur-11-expressinmyself.onrender.com
 
 ## License
 
